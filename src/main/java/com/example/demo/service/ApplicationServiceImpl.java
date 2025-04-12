@@ -41,7 +41,7 @@ public class ApplicationServiceImpl implements ApplicationService {
 	@Override
 	public void deleteApplication(Integer appNum) {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
@@ -56,4 +56,4 @@ public class ApplicationServiceImpl implements ApplicationService {
 		return null;
 	}
 
-    
+}
